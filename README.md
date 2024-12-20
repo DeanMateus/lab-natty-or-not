@@ -1,51 +1,35 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ferramentas IAS com DIO.me ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto pensado para uma chamada para se inscrever na plataforma da DIO.me para o aprendizado sobre tudo o que a IAS podem nos proporcionar.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+Gemini - Script
+HeyGen - Video Avatar
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A definição clara do conceito, desde a escolha do avatar jovem e despojado até a seleção da voz e a criação do texto, demonstra um processo criativo bem estruturado. Vamos aprofundar cada etapa e explorar algumas possibilidades para otimizar ainda mais o resultado final.
+
+1. O Avatar: Mais do que uma Imagem
+Personalidade Visual: Além da juventude e despojo, quais outras características visuais o avatar deve transmitir? Estilo de roupa, expressões faciais, linguagem corporal e até mesmo a paleta de cores podem reforçar a mensagem.
+Conexão com o Público: O avatar precisa ser identificável e gerar empatia com o público-alvo. Pense em personas e referências culturais que possam ressoar com eles.
+Evolução: Se o vídeo fizer parte de uma campanha maior, considere como o avatar pode evoluir ao longo do tempo, mantendo sua essência e ao mesmo tempo surpreendendo o público.
+2. A Voz: A Alma do Avatar
+Tonalidade e Timbre: A voz deve complementar a imagem do avatar, transmitindo as mesmas emoções e energia.
+Linguagem: A escolha das palavras e a forma de falar devem ser coerentes com a personalidade do avatar e com o estilo do vídeo.
+Versatilidade: Uma voz versátil permite explorar diferentes nuances e adaptar-se a diversas situações.
+3. O Texto: A Mensagem-Chave
+Clareza e Concisão: O texto deve ser fácil de entender e transmitir a mensagem de forma clara e objetiva.
+Emoção e Impacto: Use palavras e frases que evoquem emoções e criem uma conexão com o público.
+Chamada para Ação: Se o objetivo do vídeo for incentivar alguma ação, a chamada para ação deve ser clara e persuasiva.
+4. O Ambiente: Extensão da Personalidade
+Locais: Escolha locais que reflitam a personalidade do avatar e o estilo do vídeo. Ambientes naturais, urbanos ou até mesmo criados digitalmente podem ser opções interessantes.
+Iluminação e Cores: A iluminação e as cores do ambiente devem complementar a estética do vídeo e criar a atmosfera desejada.
+Elementos Visuais: Utilize elementos visuais que enriqueçam a narrativa e tornem o vídeo mais dinâmico e interessante.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apresente os resultados do seu projeto.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+No inicio foi uma dificuldade pensar em um script a melhor forma que consegui chegar parece que foi fazendo ao contrário da forma convencional que seria o texto e depois o avatar e depois a voz mas gostei muito do resultado.
