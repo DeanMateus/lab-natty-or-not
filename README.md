@@ -31,5 +31,7 @@ Elementos Visuais: Utilize elementos visuais que enriqueçam a narrativa e torne
 ## 🚀 Resultados
 Apresente os resultados do seu projeto.
 
+[Link do Video]
+
 ## 💭 Reflexão (Opcional)
 No inicio foi uma dificuldade pensar em um script a melhor forma que consegui chegar parece que foi fazendo ao contrário da forma convencional que seria o texto e depois o avatar e depois a voz mas gostei muito do resultado.
