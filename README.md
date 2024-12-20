@@ -5,8 +5,8 @@ Projeto pensado para uma chamada para se inscrever na plataforma da DIO.me para 
 
 ## 🤖 Tecnologias Utilizadas
 
-Gemini - Script
-HeyGen - Video Avatar
+Gemini - Script "https://gemini.google.com"
+HeyGen - Video Avatar "https://app.heygen.com"
 
 ## 🧐 Processo de Criação
 A definição clara do conceito, desde a escolha do avatar jovem e despojado até a seleção da voz e a criação do texto, demonstra um processo criativo bem estruturado. Vamos aprofundar cada etapa e explorar algumas possibilidades para otimizar ainda mais o resultado final.
